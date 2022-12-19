@@ -28,13 +28,13 @@
 Mediapipe是Google開發的一款套件，可實現人臉追蹤、手掌偵測、姿態偵測、人物去背…
 我們將使用姿態偵測模型，該模型可標記身體中 33 個關節點的位置。我們採用其中11、13、15
 等手臂關節點之數據做分析，判斷其當前動作(閒置/開槍)。[圖片來源](https://google.github.io/mediapipe/solutions/pose#python-solution-api)
-![](./分析.png)
+![](https://github.com/JiangXiu11200/111-1_AOITechnologyandApplication/blob/main/exampleImage/%E5%88%86%E6%9E%90.png)
 
 ### Breakdown：
 * 系統Breakdown
-![](系統breakdown1.png)
+![](https://github.com/JiangXiu11200/111-1_AOITechnologyandApplication/blob/main/exampleImage/%E7%B3%BB%E7%B5%B1breakdown1.png)
 *  程式模組Breakdown
-![](系統breakdown2.png)
+![](https://github.com/JiangXiu11200/111-1_AOITechnologyandApplication/blob/main/exampleImage/%E7%B3%BB%E7%B5%B1breakdown2.png)
 
 
 
